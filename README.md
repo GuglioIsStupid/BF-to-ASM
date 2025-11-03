@@ -14,3 +14,6 @@ Its just cmake. I personally used "Visual Studio 18 2026" as the generator
 
 ## Why?
 I was learning assembly and got bored,... thats really it lmao
+
+## Known Issues
+- for some reason new lines output as a small tiny n?? what the hell
